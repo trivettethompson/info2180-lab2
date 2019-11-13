@@ -1,1 +1,12 @@
-<link rel="index.html" href="styles.css">
+h1 
+{
+  color: #41B883;
+  font-size: 24px;
+  font-family: Georgia;
+  
+}
+
+p 
+{
+  font-size: 18px;
+}
